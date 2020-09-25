@@ -1,2 +1,4 @@
 hello
 1234
+for git revert
+it removes third line while I want to remove second line
